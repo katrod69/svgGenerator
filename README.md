@@ -8,6 +8,11 @@ To install this application the user must download the code base, npm i required
 This npm application is best used for generating an svg logo based on user input.
 ## Credits
 chatGpt, DU curriculum, DU tutor
+
+
+[Untitled_ Jul 19, 2023 6_23 PM.webm](https://github.com/katrod69/svgGenerator/assets/132238081/331993fd-30a1-4645-b4f8-56b4a2f3b9ea)
+
+
 ## License
 Creative Commons Legal Code
 
